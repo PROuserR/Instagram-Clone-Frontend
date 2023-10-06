@@ -1,0 +1,29 @@
+.swiper-wrapper {
+    margin-bottom: 30px;
+}
+
+.swiper-pagination-bullet {
+    background-color: lightgray !important;
+}
+
+.swiper-pagination-bullet-active {
+    background-color: blue !important;
+}
+
+.pulsing-heart {
+    animation-name: stretch;
+    animation-duration: .5s;
+    animation-timing-function: ease-out;
+    animation-direction: alternate;
+    animation-play-state: running;
+}
+
+@keyframes stretch {
+    25% {
+        transform: scale(1.1);
+    }
+
+    75% {
+        transform: scale(1);
+    }
+}
