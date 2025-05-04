@@ -1,5 +1,7 @@
 # Instagram-Clone
+
 <i>Screenshots</i>
+
 <img src="Screenshots/Screenshot%202025-05-04%20141916.png" />
 <img src="Screenshots/Screenshot%202025-05-04%20175643.png" />
 
