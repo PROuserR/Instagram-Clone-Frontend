@@ -1,6 +1,7 @@
 # Instagram-Clone
-<img src="" />
-<img src="" />
+<i>Screenshots</i>
+<img src="Screenshots/Screenshot%202025-05-04%20141916.png" />
+<img src="Screenshots/Screenshot%202025-05-04%20175643.png" />
 
 # Getting Started with Create React App
 
