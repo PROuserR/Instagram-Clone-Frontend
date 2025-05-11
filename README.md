@@ -1,7 +1,3 @@
-# Instagram-Clone
-
-<br>
-
 # 🚀 Instagram Clone
 
 A sleek, high-performance social media experience built with **React** and **Tailwind CSS**!
