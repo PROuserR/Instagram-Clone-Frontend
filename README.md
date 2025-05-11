@@ -1,10 +1,23 @@
 # Instagram-Clone
 
-<i>Screenshots</i>
+<br>
+
+# 🚀 Instagram Clone
+
+A sleek, high-performance social media experience built with **React** and **Tailwind CSS**!
+
+## ✨ Features
+- **Fluid UI & Responsive Design** – Looks stunning on all screen sizes.
+- **Effortless Navigation** – Seamless user experience with optimized interactions.
+- **Lightning-fast Performance** – Powered by React for efficient rendering.
+- **Tailwind CSS** – Modern, customizable styling with minimal effort.
+
+## 📸 Preview
 
 <img src="Screenshots/Screenshot%202025-05-04%20141916.png" />
 <img src="Screenshots/Screenshot%202025-05-04%20175643.png" />
 
+<br>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
